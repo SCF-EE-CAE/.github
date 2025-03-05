@@ -6,7 +6,7 @@ Nosso projeto propõe uma solução automática de controle ambiental capaz de m
 
 Uma documentação geral do sistema esta disponível no link abaixo.
 
-[**Acesso à documentação**]([./docs/README.md](https://github.com/SCF-EE-CAE/docs/blob/main/README.md))
+[**Acesso à documentação**](https://github.com/SCF-EE-CAE/docs/blob/main/README.md)
 
 ## Repositórios principais do sistema
 
