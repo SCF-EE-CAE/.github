@@ -4,6 +4,10 @@ O conforto térmico em ambientes internos, como escritórios, é crucial para as
 
 Nosso projeto propõe uma solução automática de controle ambiental capaz de monitorar variáveis como temperatura, umidade relativa e o consumo de energia dos dispositivos de climatização. O sistema deve ajustar-se continuamente às necessidades térmicas dos ocupantes, considerando o feedback fornecido por eles. O objetivo é garantir o conforto térmico com o menor consumo energético possível.
 
+Uma documentação geral do sistema esta disponível no link abaixo.
+
+[**Acesso à documentação**]([./docs/README.md](https://github.com/SCF-EE-CAE/docs/blob/main/README.md))
+
 ## Repositórios principais do sistema
 
 - [TBENV](https://github.com/SCF-EE-CAE/TBENV): Código do módulo ambiental, responsável pelo monitoramento de variáveis como temperatura e umidade utilizando diversos sensores.
