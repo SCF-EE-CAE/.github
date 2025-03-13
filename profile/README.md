@@ -10,6 +10,12 @@ Uma documentação geral do sistema esta disponível no link abaixo.
 
 ## Repositórios principais do sistema
 
+O sistema é composto por diversos repositórios, listados abaixo. Para facilitar a clonagem do sistema completo, foi construído um script que pode ser encontrado no link abaixo.
+
+[**Clonagem do Projeto Completo**](https://github.com/SCF-EE-CAE/utilities/blob/main/clone_project/README.md)
+
+### Lista dos Repositórios Principais
+
 - [TBENV](https://github.com/SCF-EE-CAE/TBENV): Código do módulo ambiental, responsável pelo monitoramento de variáveis como temperatura e umidade utilizando diversos sensores.
 - [TBENE](https://github.com/SCF-EE-CAE/TBENE): Módulo de monitoramento energético, focado na análise do consumo dos equipamentos de climatização.
 - [TBIRC](https://github.com/SCF-EE-CAE/TBIRC): Software para o controle do ar condicionado via emissor IR.
@@ -17,3 +23,4 @@ Uma documentação geral do sistema esta disponível no link abaixo.
 - [TBUIF](https://github.com/SCF-EE-CAE/TBUIF): Interface de usuário do sistema, oferecendo feedback sobre sensação térmica e gráficos de monitoramento.
 - [TBCTR](https://github.com/SCF-EE-CAE/TBCTR): Software de controle ambiental que interage com a plataforma Thingsboard para coletar informações e atuar no ambiente.
 - [utilities](https://github.com/SCF-EE-CAE/utilities): Ferramentas auxiliares para o funcionamento e uso do sistema.
+- [docs](https://github.com/SCF-EE-CAE/docs): Documentação do projeto, de forma geral, e do Thingsboard.
